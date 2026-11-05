@@ -1,0 +1,6 @@
+{
+  "name": "VitePress AI 内容自动生成系统",
+  "description": "基于 VitePress 规范的全栈 AI 技术落地内容自动生成与归档平台，支持定时小时级调度、智能搜索、技术架构图绘制与目录结构自动同步。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

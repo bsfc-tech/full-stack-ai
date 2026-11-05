@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for turning the platform into a pure VitePress documentation website with background-only hourly automated generation, default-enabled scheduler, and dynamic AI-driven taxonomy generation (automatic English slugs with Chinese display names).",
+  "updatedAt": "2026-11-05T06:44:58.187645027Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
